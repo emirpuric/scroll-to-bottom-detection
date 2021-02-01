@@ -1,6 +1,6 @@
 # About Project
 
-This project implement scrollable panel component. Component accept onScrollToBottom function which will be invoked when content is scrolled to the bottom. Component could be used when user need to read all content before proceed to the next step.
+This project implements scrollable panel component. Component accepts onScrollToBottom function which will be invoked when content is scrolled to the bottom. Component could be used when user need to read all content before proceeds to the next step.
 
 # Getting Started with Create React App
 
